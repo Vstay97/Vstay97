@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Vstay, a growing full stack developer.
+
+- 🌱 I’m currently studying for graduate and striving for a better life in Urumqi.
+- 
+- 👯 My Blog 👉 <a href = "https://www.vstay.cn/"> Milky Way Galaxy </a>
