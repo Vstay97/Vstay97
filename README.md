@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m Vstay, a growing full stack developer.
 
-- 🌱 I’m currently studying for graduate and striving for a better life in Urumqi
+- 🌱 I’m currently studying for graduate and striving for a better life in Urumqi.
 - 👯 My Blog 👉 <a href = "https://www.vstay.cn/"> Milky Way Galaxy </a>
 - 💬 My E-mail: vstay#qq.com
 - 📫 My Main Research Field: Natural Language Processing(Automatic Essay Scoring,AES)
