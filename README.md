@@ -23,10 +23,8 @@ I’m Vstay, a growing full stack developer.
 - 📫 My Main Research Field: Natural Language Processing(Automatic Essay Scoring, AES)
 - ⚡ My Power Tools:
 
-[![Vstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vstay97&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vstay97&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Solarized dark             |  Solarized Ocean
+About me             |  About my skills
 :-------------------------:|:-------------------------:
 [![Vstay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vstay97&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vstay97&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
