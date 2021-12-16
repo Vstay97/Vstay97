@@ -23,4 +23,4 @@ I’m Vstay, a growing full stack developer.
 - 📫 My Main Research Field: Natural Language Processing(Automatic Essay Scoring, AES)
 - ⚡ My Power Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vstay97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vstay97&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
