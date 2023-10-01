@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Vstay, a growing full stack developer.
+I’m Vstay, a growing developer.
 
-- 🌱 I’m currently studying for graduate and striving for a better life in Urumqi.
-- 👯 My Blog 👉 <a href = "https://www.vstay.cn/"> Milky Way Galaxy </a>
+- 🌱 I’m currently studying for graduate and striving for a better life in Kunming.
+- 👯 My Blog 👉 <a href = "https://wiki.vstay.cn/"> Galaxy </a>
 - 💬 My E-mail: vstay#qq.com
-- 📫 My Main Research Field: Natural Language Processing(Automatic Essay Scoring, AES)
+- 📫 My Main Research Field: Back-end development; Data development
 - ⚡ My Power Tools:
 
 
